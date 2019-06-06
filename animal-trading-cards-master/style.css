@@ -1,0 +1,31 @@
+   body
+
+	{
+	margin: 200px 680px 200px 500px;
+
+	padding: 10px 10px 10px 10px;
+
+	border-style: outset;
+
+	width: fixed;
+	}
+.facts
+	{
+	font-style: italic;
+	}
+.items
+	{
+	font-weight: bold;
+	}
+#second
+	{
+	margin-top:5px;
+	border-style: groove;
+	padding: 2px 10px 2px 10px;
+	}
+ul
+	{
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	}
